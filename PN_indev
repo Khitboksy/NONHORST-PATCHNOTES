@@ -1,0 +1,14 @@
+NONHORSTMP - PATCHNOTES - ##DATE##
+
+// JUN 13 2024
+Countries
+    
+    + France
+        + Removed "Victors of the Great War' national idea and all in game references to the national idea.
+        + Reduced the length of ALL industrial focuses to 35 days, was 70 days (except 'Military Factories').
+        + Reduced the length of ALL 'The Blum-Viollette Proposal' focuses to 35 days, was 70 days.
+        + Reduced the length of ALL army focuses to 56 days, was 70 days.
+            + Added a limited National Idea, 'Begin Rearmament', to the focus 'Begin Rearmament' 
+              that provides a 10% military factory speed bonus that lasts for 120 days
+            + Added 100% research bonus to Medium Tanks to 'Infantry Tanks' focus.
+            + Increased the land doctrine bonus given by 'Army Reform' to 2x 70%, was 2x 50%
